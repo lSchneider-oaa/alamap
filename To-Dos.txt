@@ -1,0 +1,11 @@
+adjust favicon - make the background transparent.
+
+social media cards - create images to display when sharing the blog.
+
+color scheme - define the ci color wise.
+
+hub page - write content. create visuals.
+
+project management - create proper place for todos etc.
+
+dictionary - check the possibility of something like a dictionary.

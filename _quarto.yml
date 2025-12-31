@@ -13,6 +13,15 @@ website:
         href: https://github.com/
       - icon: rss
         href: index.xml
+  page-footer:
+    left: "© 2025 alamap.xyz"
+    center: 
+      - text: "Impressum"
+        href: impressum.qmd
+      - text: "Datenschutz"
+        href: datenschutz.qmd
+    right: "Always learn as much as possible"
+    background: light # oder dark, passend zu Ihrem Design
 format:
   html:
     theme: cosmo
