@@ -10,5 +10,11 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "772004c4"
+  },
+  "datenschutz.qmd": {
+    "datenschutz.html": "3fc3194a"
+  },
+  "impressum.qmd": {
+    "impressum.html": "11b8ce4e"
   }
 }
