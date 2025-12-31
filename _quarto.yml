@@ -22,6 +22,7 @@ website:
         href: datenschutz.qmd
     right: "Always learn as much as possible"
     background: light # oder dark, passend zu Ihrem Design
+  favicon: favicon.png
 format:
   html:
     theme: cosmo

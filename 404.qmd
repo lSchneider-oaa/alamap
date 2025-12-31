@@ -1,0 +1,7 @@
+---
+title: "Seite nicht gefunden"
+---
+
+Hoppla! Diese Seite existiert leider nicht.
+
+[Zurück zur Startseite](index.qmd)
