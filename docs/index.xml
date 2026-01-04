@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>alamap</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Tue, 21 Jan 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Willkommen auf meinem Blog</title>
+  <dc:creator>Dein Name</dc:creator>
+  <link>https://your-website-url.example.com/posts/intro/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="hallo-welt" class="level2">
+<h2 class="anchored" data-anchor-id="hallo-welt">Hallo Welt!</h2>
+<p>Das ist mein allererster Blog-Post auf <strong>alamap.xyz</strong>.</p>
+<p>Hier kannst du nun deinen Text schreiben. Du kannst Markdown ganz normal nutzen: - <strong>Fett gedruckter Text</strong> für Betonungen. - <a href="https://alamap.xyz/about.html">Links zu anderen Seiten</a>. - Und natürlich Code-Blöcke, falls du mal etwas Technisches teilst.</p>
+<section id="was-kommt-als-nächstes" class="level3">
+<h3 class="anchored" data-anchor-id="was-kommt-als-nächstes">Was kommt als Nächstes?</h3>
+<p>In den kommenden Wochen werde ich hier über meine Lernfortschritte und wissenschaftlichen Hobbys berichten.</p>
+<p>Bleib gespannt!</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Allgemein</category>
+  <category>Intro</category>
+  <guid>https://your-website-url.example.com/posts/intro/</guid>
+  <pubDate>Tue, 21 Jan 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/intro/preview.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

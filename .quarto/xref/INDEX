@@ -19,5 +19,8 @@
   },
   "404.qmd": {
     "404.html": "bbc24f4c"
+  },
+  "posts/intro/index.qmd": {
+    "index.html": "836678ae"
   }
 }
