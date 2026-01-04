@@ -28,7 +28,7 @@
 <section id="was-kommt-als-nächstes" class="level3">
 <h3 class="anchored" data-anchor-id="was-kommt-als-nächstes">Was kommt als Nächstes?</h3>
 <p>In den kommenden Wochen werde ich hier über meine Lernfortschritte und wissenschaftlichen Hobbys berichten.</p>
-<p>Bleib gespannt!</p>
+<p>Bleib gespannt! Wie live sind diese Tests hier denn?</p>
 
 
 </section>
@@ -39,7 +39,7 @@
   <category>Intro</category>
   <guid>https://your-website-url.example.com/posts/intro/</guid>
   <pubDate>Tue, 21 Jan 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/intro/preview.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://your-website-url.example.com/posts/intro/intro_tn.png" medium="image" type="image/png" height="80" width="144"/>
 </item>
 </channel>
 </rss>

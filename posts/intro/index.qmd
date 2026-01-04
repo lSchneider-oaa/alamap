@@ -4,7 +4,7 @@ description: "Ein kurzer Überblick darüber, was dich auf alamap erwartet."
 author: "Dein Name"
 date: "2025-01-22"
 categories: [Allgemein, Intro]
-image: "preview.jpg" # Optional: Ein Bild für die Blog-Übersicht
+image: "intro_tn.png" # Optional: Ein Bild für die Blog-Übersicht
 ---
 
 ## Hallo Welt!
@@ -19,4 +19,4 @@ Hier kannst du nun deinen Text schreiben. Du kannst Markdown ganz normal nutzen:
 ### Was kommt als Nächstes?
 In den kommenden Wochen werde ich hier über meine Lernfortschritte und wissenschaftlichen Hobbys berichten. 
 
-Bleib gespannt!
+Bleib gespannt! Wie live sind diese Tests hier denn?
